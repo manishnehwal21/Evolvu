@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello this is nikhil</h1>
+    <h1>Hello  is nikhil</h1>
 </body>
 </html>
